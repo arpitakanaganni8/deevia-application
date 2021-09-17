@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "771834142500",
+    "project_id": "deevia-fa937",
+    "storage_bucket": "deevia-fa937.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771834142500:android:0b80a029494ece9d6fddb1",
+        "android_client_info": {
+          "package_name": "com.example.deevia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771834142500-3j4lpoi6pr7567d5omv53pf6ml5s79ce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt2sKMsE1WXw1VcCmnr2uCYLXiAvlHexo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771834142500-3j4lpoi6pr7567d5omv53pf6ml5s79ce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

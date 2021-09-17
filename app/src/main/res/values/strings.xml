@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">deevia</string>
+
+    <string-array name="Occupations">
+        <item>Farm Labour</item>
+        <item>Farm Owner</item>
+        <item>Construction Worker</item>
+        <item>Mason</item>
+        <item>Carpenter</item>
+        <item>Electrican</item>
+        <item>Plumber</item>
+        <item>Cook</item>
+        <item>HouseKeeper</item>
+        <item>Garment Worker</item>
+        <item>Labourer</item>
+    </string-array>
+</resources>
